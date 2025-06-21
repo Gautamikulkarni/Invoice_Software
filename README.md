@@ -1,4 +1,5 @@
-#🧾 Invoice & Billing Management System
+###🧾 **Invoice & Billing Management System**
+
 The **Desktop-based billing and inventory management system** built using **Python**, **CustomTkinter**, and **MySQL**. This tool is designed to help small businesses, shopkeepers, and retailers automate and manage their daily operations — from generating professional invoices to tracking stock and visualizing sales analytics.
 -Includes product entry, invoice generation, customer record management, PDF bill export, and inventory tracking. 
 
@@ -24,6 +25,7 @@ The application features a secure login system for **Admin** and **Cashier** rol
 - `tempfile`, `os` – File handling for reports
 
 ###  System Features :
+
 1. Contactless Operation: Auto-filled invoice fields and PDF generation 
 2. Real-time Updates: Live analytics with scrollable sales and credit graphs 
 3. Multi-user Support: Supports multiple sessions via secure login 
