@@ -32,3 +32,5 @@ The application features a secure login system for **Admin** and **Cashier** rol
 4. Data Security: Input validation and MySQL (CLI-based) storage 
 5. Error Handling: Robust exception handling in UI and data operations
 
+### Video Link: 
+https://drive.google.com/file/d/1V6_Pd1xQXvCsQYls1JEuV0oJEFwL1Qfn/view?usp=sharing
